@@ -4,7 +4,19 @@
     "name": "ArenaGoHM",
     "description": "El modpack de ArenaGo para los Hunger Games",
     "mc_version": "1.21.1",
+    "loader": "fabric",
+    "loader_version": "0.19.3",
     "mrpack_url": "https://github.com/MainnnMP/arenago-modpacks/releases/download/v1.0/ArenaGo.mrpack",
+    "image": "https://raw.githubusercontent.com/MainnnMP/arenago-modpacks/main/ArenaGOMP.jpg"
+  },
+    {
+    "id": "MP2",
+    "name": "Cobblemon",
+    "description": "packpruebacobblemon",
+    "mc_version": "1.21.1",
+    "loader": "neoforge",
+    "loader_version": "21.1.244",
+    "mrpack_url": "https://github.com/MainnnMP/arenago-modpacks/releases/download/v1.1/Cobblemon.Modpack.NeoForge.1.7.3.mrpack",
     "image": "https://raw.githubusercontent.com/MainnnMP/arenago-modpacks/main/ArenaGOMP.jpg"
   }
 ]
