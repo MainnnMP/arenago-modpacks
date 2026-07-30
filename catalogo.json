@@ -9,7 +9,7 @@
   }
     {
     "modpackId": "ArenaGoMac",
-    "name": "ArenaGoHM",
+    "name": "ArenaGoHMMac",
     "description": "El modpack de ArenaGo para los Hunger Games para mac",
     "mcVersion": "1.21.1",
     "mrpackUrl": "https://github.com/MainnnMP/arenago-modpacks/releases/download/v1.1/ArenaGoMac.mrpack",
