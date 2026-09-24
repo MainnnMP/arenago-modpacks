@@ -20,7 +20,7 @@
     "name": "ArenaCraft",
     "description": "Supervivencia zombiee, server oficial de ArenaGo",
     "mcVersion": "1.21.1",
-    "mrpackUrl": "https://github.com/MainnnMP/arenago-modpacks/releases/tag/Z1.0",
+    "mrpackUrl": "https://github.com/MainnnMP/arenago-modpacks/releases/download/Z1.0/ArenaCraft.mrpack",
     "image": "https://raw.githubusercontent.com/MainnnMP/arenago-modpacks/main/ArenaGOZ.jpg"
   }
 ]
